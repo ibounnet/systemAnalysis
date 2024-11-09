@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2400" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4879" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -12,6 +12,124 @@
         </mxCell>
         <mxCell id="IWsq-w6aN-Cc4aFQA8iG-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ฟังก์ชันหลักของ Shopee :&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1. Shopee Mall -&amp;gt; เป็นศูนย์รวมสินค้าที่มีความน่าเชื่อถือและทางการ เพื่อให้ลูกค้ามั่นใจและเชื่อถือในคุณภาพของสินค้า&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2. Flash Sale -&amp;gt; Shopee จะจัดโปรโมชั่นสินค้าลดราคาในช่วงเวลาที่จำกัด เพื่อดึงดูดลูกค้าและการกระตุ้นการขาย&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3. Promotion -&amp;gt; จะมีโปรโมชั่นและคูปองส่วนลดที่ออกมาต่อเนื่อง เพื่อให้ users ประหยัดมากขึ้น เช่น ค่าส่งฟรี&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4. การติดตามอย่างเรียลไทม์ -&amp;gt; users สามารถการขนส่งสินค้าได้อย่างเรียลไทม์ตั้งแต่เริ่มจนถึงปลายทาง&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5. การ Live Streaming -&amp;gt; สามารถให้ User สอบถามสินค้าและตอบกลับอย่างรวดเร็วเพื่อเป็นการตัดสินใจในการซื้อ&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1621" y="-810" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ผู้ใช้ที่เกี่ยวข้อง : ผู้ซื้อ ผู้ขาย ผู้ดูแลระบบ บริษัทขนส่ง ผู้ดูแลการบริการลูกค้า และพาร์ทเนอร์การชำระเงิน&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1621" y="-599" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1250.6666666666665" y="-440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-44" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;start&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IWsq-w6aN-Cc4aFQA8iG-30">
+          <mxGeometry x="0.0237" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Shopee&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mall&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1310" y="-540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-34" target="IWsq-w6aN-Cc4aFQA8iG-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1250.3333333333333" y="-329.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-34" value="เลือกสินค้า&lt;div&gt;Shopee Mall&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1310" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-36" target="IWsq-w6aN-Cc4aFQA8iG-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1250.3333333333333" y="-209.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-36" value="เพิ่มสินค้าเข้าตะกร้า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1310.0033333333333" y="-319.9999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-38" target="IWsq-w6aN-Cc4aFQA8iG-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1250.3333333333333" y="-109.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-38" target="IWsq-w6aN-Cc4aFQA8iG-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1040" y="-119.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-38" value="เลือกสินค้าในตะร้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1310.0033333333333" y="-219.99999999999977" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-39" target="IWsq-w6aN-Cc4aFQA8iG-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-39" value="เลือกสินค้า" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1510" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-48" target="IWsq-w6aN-Cc4aFQA8iG-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-48" value="PayMent" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1301" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-50" target="IWsq-w6aN-Cc4aFQA8iG-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1000" y="-40" />
+              <mxPoint x="-1000" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-50" value="ไม่เลือกสินค้า" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1040" y="-119.99999999999977" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-51" target="IWsq-w6aN-Cc4aFQA8iG-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-51" value="เลือกที่อยู่ที่จัดส่ง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1301" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-53" target="IWsq-w6aN-Cc4aFQA8iG-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-53" value="เช็คสินค้า" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1301" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-55" target="IWsq-w6aN-Cc4aFQA8iG-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1050" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-55" value="เลือกการชำระเงิน" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1301" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-58" target="IWsq-w6aN-Cc4aFQA8iG-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1431.25" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-58" value="ยืนยันการสั่งซื้อ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1471" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-60" target="IWsq-w6aN-Cc4aFQA8iG-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-60" value="ยกเลิกคำสั่งซื้อ" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1090" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IWsq-w6aN-Cc4aFQA8iG-62" target="IWsq-w6aN-Cc4aFQA8iG-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-62" value="แสดงผลคำสั่งซื้อ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1491" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWsq-w6aN-Cc4aFQA8iG-65" value="หน้าหลัก&lt;div&gt;Shopee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1295" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
